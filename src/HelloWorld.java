@@ -4,5 +4,6 @@ public class HelloWorld {
 		System.out.println("Hello World from master branch !" );
 		System.out.println("Hello World from the dev branch !" );
 		System.out.println("Hello World from the feature branch !" );
+		System.out.println("Hello World from the master branch again !" );
   }
 }
